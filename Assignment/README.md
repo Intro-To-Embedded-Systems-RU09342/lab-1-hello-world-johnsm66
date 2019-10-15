@@ -5,6 +5,6 @@ an example UART Calculator code.
 The math.h and math.c files can be placed into a working directory and the function, math(int num1, int num2, char operator),
 can be called upon to perform various functions to the integers, num1 and num2 based.
 ##Functions
-### Add ("+")
+Add ("+")
 -the sum of num1 and num2 is calculated and the value is returned.
 
