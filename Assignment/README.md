@@ -8,7 +8,7 @@ can be called upon to perform various functions to the integers, num1 and num2 b
 ### Add ("+")
 - the sum of num1 and num2 is calculated and the value is returned.
 ### Subtarct ("-")
--the difference between num1 and num2 is calculated and the value is returned.
+- the difference between num1 and num2 is calculated and the value is returned.
 ### Multiply ("*")
 - num1 and num2 are multiplied together and the value is returned.
 ### Divide ("/")
